@@ -1,3 +1,3 @@
 # Clear Springs Bolt Bots
-## Vex Team 2344A
-### cshsboltbots.org
+## Vex High School Team 2344A
+### https://www.cshsboltbots.org
