@@ -2,4 +2,4 @@
 ## Vex High School Team 2344A
 ### https://www.cshsboltbots.org
 #### Team Leader: Deigo Sepulveda
-#### Lead Software Engineer: David Corvaglia [@corvad](github.com/corvad)
+#### Lead Software Engineer: David Corvaglia [@corvad](https://github.com/corvad)
